@@ -86,7 +86,7 @@ set CoreARM=DXHJF-N9KQX-MFPVR-GHGQK-Y7RKV
 goto windowsstart
 :win81
 echo.
-echo 当前为Windows 8.1，开始尝试激活.....
+echo 当前为Windows 8.1/2012R2，开始尝试激活.....
 echo.
 set Core=M9Q9P-WNJJT-6PXPY-DWX8H-6XWKK
 set CoreARM=XYTND-K6QKT-K2MRH-66RTM-43JKP
@@ -112,7 +112,7 @@ set ServerSolutionCore=KNC87-3J2TX-XB4WP-VCPJV-M4FWM
 goto windowsstart
 :win10
 echo.
-echo. & echo 当前为Windows 10，开始尝试激活.....
+echo. & echo 当前为Windows 10或Windows 11，开始尝试激活.....
 echo.
 set Core=TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 set CoreCountrySpecific=PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
@@ -127,6 +127,8 @@ set Professional=YC7N8-G7WR6-9WR4H-6Y2W4-KBT6X
 set ProfessionalN=MH37W-N47XK-V7XM9-C7227-GCQG9
 set ProfessionalSN=8Q36Y-N2F39-HRMHT-4XW33-TCQR4
 set ProfessionalWMC=NKPM6-TCVPT-3HRFX-Q4H9B-QJ34Y
+set ProfessionalWorkstation=NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+set ProfessionalWorkstationN=9FNHH-K3HBT-3W4TD-6383H-6XYWF
 set ProfessionalEducation=6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
 set ProfessionalEducationN=YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
 set Education=NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
